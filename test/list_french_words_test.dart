@@ -7,8 +7,8 @@ void main() {
       expect(list_french_words.contains('abaissez'), isTrue);
     });
 
-    test('Word List Contains enjuive', () {
-      expect(list_french_words.contains('enjuive'), isTrue);
+    test('Word List Contains envol', () {
+      expect(list_french_words.contains('envol'), isTrue);
     });
 
     test('Word List Contains gravons', () {
